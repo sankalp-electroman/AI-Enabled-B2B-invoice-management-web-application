@@ -1,0 +1,13 @@
+#search__box {
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+
+.search__btn {
+	display: inline;
+	cursor: pointer;
+	margin-left: -4rem;
+	position: relative;
+	color: black !important;
+}

@@ -1,0 +1,9 @@
+.btn:focus {
+	background: #14aff1;
+}
+
+button {
+	align-self: stretch !important;
+	font-size: small !important;
+}
+

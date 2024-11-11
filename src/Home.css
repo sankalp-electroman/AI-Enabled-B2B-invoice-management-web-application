@@ -1,0 +1,11 @@
+.Home {
+	height: 100vh;
+	max-width: 100vw;
+	color: white;
+}
+@media only screen and (max-width: 600px) {
+	#grid-container {
+		padding: 0.8rem;
+		margin: 0.5rem 0;
+	}
+}
